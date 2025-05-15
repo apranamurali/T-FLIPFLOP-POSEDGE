@@ -34,8 +34,7 @@ From the above characteristic table, we can directly write the next state equati
 5.For different input combinations generate the timing diagram.
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:MANIKANDAN M RegisterNumber:212224040183
-*/
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:APARNA.M REG NO:212223220008
 ~~~
 module exp9(T,clk,Q,Qbar);
 input T,clk;
